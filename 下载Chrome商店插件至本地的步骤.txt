@@ -1,0 +1,17 @@
+博客：https://www.cnblogs.com/xiykj/p/17226961.html
+下载Chrome商店插件至本地
+1、获取插件ID：
+
+从Chrome商店浏览插件链接地址，地址栏中最后一串就是插件ID，将ID复制出来，如下（前提是需要你的电脑能访问Google）
+
+https://chrome.google.com/webstore/detail/qr-code-generator-and-rea/hkojjajclkgeijhcmfjcjkddfjpaimek
+
+2、下载插件：
+
+通过将第一步得到的ID拼凑在下列链接（也就是修改这里：%3D--插件ID--%26），就可以通过以下网址直接下载CRX插件了
+
+https://clients2.google.com/service/update2/crx?response=redirect&os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=&prodversion=77.0.3865.90&lang=zh-CN&acceptformat=crx2,crx3&x=id%3Dbcjindcccaagfpapjjmafapmmgkkhgoa%26installsource%3Dondemand%26uc
+
+ 
+
+ 
